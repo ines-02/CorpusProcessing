@@ -1,20 +1,20 @@
-Tp partie1- CoNLL 2003 
-1- Quelle type de tâche propose CoNLL 2003 ?
+## Tp partie1- CoNLL 2003 
+###### 1- Quelle type de tâche propose CoNLL 2003 ?
 - Reconnaissance d’Entités Nommées (NER – Named Entity Recognition) (shared task) 
 La tâche partagée de CoNLL-2003 concerne la reconnaissance d'entités nommées indépendante de la langue et se concentre sur quatre types d'entités nommées : les personnes, les lieux, les organisations et les noms d'entités diverses qui n'appartiennent pas aux trois groupes précédents.
-2-Quel type de données y a-t-il dans CoNLL2003?
+###### 2-Quel type de données y a-t-il dans CoNLL2003?
 Huit fichiers couvrant deux langues : l'anglais et l'allemand.
 Pour chacune des langues, il existe un fichier de formation, un fichier de développement, un fichier de test et un gros fichier contenant des données non annotées.
-3-A quel besoin répond CoNLL 2003 ?
+###### 3-A quel besoin répond CoNLL 2003 ?
 Ce dataset est introduit lors de la conférence de 2003 de Natural Language Learning. CoNLL signifie Conference on Natural Language Learning.
 C’est le premier jeu de données majeur introduit pour faire de la NER.
-4-Quels types de modèles ont été entraînés sur CoNLL 2003 ?
+###### 4-Quels types de modèles ont été entraînés sur CoNLL 2003 ?
 Maximum Entropy Model (plus utilisé)(Cinq systèmes ont utilisé cette méthode d'apprentissage statistique : isolément ou combiné avec d'autres techniques)
 Hidden Markov Models (employé par quatre des systèmes et toujours utilisé en combinaison avec d'autres techniques d'apprentissage)
 Méthodes fondées sur des approches connexionnistes (Winnow technique,Voted perceptron,AdaBoost.MH,memory-based learning,recurrent neural network,Transformation-based learning, Support Vector Machines, Conditional Random Fields
-5-Est un corpus monolingue ou multilingue ?
+###### 5-Est un corpus monolingue ou multilingue ?
 Multilangue (l'anglais et l'allemand.)
 
-sources:
+###### sources:
 Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition (Tjong Kim Sang & De Meulder, CoNLL 2003)-https://aclanthology.org/W03-0419/
 

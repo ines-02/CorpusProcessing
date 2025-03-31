@@ -7,13 +7,10 @@ Aider les chercheurs, critiques et écrivains à mieux analyser la présence de 
 
 Quel sujet allez vous traiter ?
 L’analyse des composants typiques du genre horrifique, tels que :
-Ambiance : tension, peur, isolement.
-Thèmes : paranormal, monstres, esprits vengeurs, meurtres.
-Personnages : tueur en série, Final Girl, enfant possédé.
+Personnages : tueur en série, Final Girl, enfant possédé, monstres, esprits...
 
 Quel type de tâche allez vous réaliser ?
-Classification de texte : Déterminer si un texte appartient au genre horreur et identifier ses sous-genres (ex : slasher, psychologique, surnaturel).
-Extraction d'entités nommées (NER) : Repérer les éléments clés liés à l’horreur (ex : "esprit maléfique", "maison hantée", "rituel occulte").
+Classification de texte : Déterminer si un texte appartient au genre horreur et extraction d'entités nommées (NER) : Repérer les éléments clés liés à l’horreur (ex : "esprit maléfique", "maison hantée", "rituel occulte").
 
 Quel type de données allez vous exploiter ?
 Scripts de films d’horreur (dialogues, descriptions).

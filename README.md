@@ -1,6 +1,6 @@
 # CorpusProcessing
-Définissez les besoins de votre projet:
- 
+Définissez les besoins de votre projet: Détection des Éléments d’Horreur dans les Films/Livres
+
 Dans quel besoin vous inscrivez vous ?
 Développer un modèle NLP capable d’identifier automatiquement les éléments d’horreur dans des textes (scripts de films, résumés, romans).
 Aider les chercheurs, critiques et écrivains à mieux analyser la présence de l’horreur dans une œuvre.

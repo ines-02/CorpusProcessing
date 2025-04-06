@@ -13,18 +13,12 @@ Quel type de tâche allez vous réaliser ?
 Classification de texte : Déterminer si un texte appartient au genre horreur et extraction d'entités nommées (NER) : Repérer les éléments clés liés à l’horreur (ex : "esprit maléfique", "maison hantée", "rituel occulte").
 
 Quel type de données allez vous exploiter ?
-Scripts de films d’horreur (dialogues, descriptions).
-Résumés de films/livres d’horreur (IMDb, Wikipedia).
+Résumés de films d’horreur .
 Livres et nouvelles d’horreur.
 
 Où allez vous récupérer vos données ?
-TV Tropes (tvtropes.org) : Base de données des thèmes et tropes d’horreur.
-Internet Movie Script Database (IMSDB) (imsdb.com) : Scripts de films d’horreur gratuits.
-Project Gutenberg (gutenberg.org) : Romans et nouvelles d’horreur du domaine public.
-Wikipedia & IMDb : Résumés et descriptions de films d’horreur.
-Reddit (r/nosleep, r/horror) : Histoires d’horreur écrites par des amateurs.
+Project Gutenberg (gutenberg.org), Wikisource : Romans et nouvelles d’horreur du domaine public.
+Films-horreur.com , Wikipedia: résumé de films d'horreur.
 
 Sont-elles libres d'accès ?
-Oui, pour les textes du domaine public (Dracula, Frankenstein).
-Oui, pour les résumés et articles de Wikipedia et TV Tropes.
-Non, pour certains scripts de films récents sous copyright (nécessité de vérifier les droits d’utilisation).
+Oui

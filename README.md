@@ -14,14 +14,12 @@ Classification de texte : Déterminer si un texte appartient au genre horreur et
 
 Quel type de données allez vous exploiter ?
 Scripts de films d’horreur (dialogues, descriptions).
-Résumés et critiques de films/livres d’horreur (IMDb, Wikipedia, Rotten Tomatoes).
-Livres et nouvelles d’horreur (Dracula, Frankenstein, Lovecraft).
-Articles et forums spécialisés (TV Tropes, r/nosleep sur Reddit).
+Résumés de films/livres d’horreur (IMDb, Wikipedia).
+Livres et nouvelles d’horreur.
 
 Où allez vous récupérer vos données ?
 TV Tropes (tvtropes.org) : Base de données des thèmes et tropes d’horreur.
 Internet Movie Script Database (IMSDB) (imsdb.com) : Scripts de films d’horreur gratuits.
-SimplyScripts (simplyscripts.com) : Autres scripts accessibles.
 Project Gutenberg (gutenberg.org) : Romans et nouvelles d’horreur du domaine public.
 Wikipedia & IMDb : Résumés et descriptions de films d’horreur.
 Reddit (r/nosleep, r/horror) : Histoires d’horreur écrites par des amateurs.

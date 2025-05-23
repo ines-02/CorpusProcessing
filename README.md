@@ -1,5 +1,5 @@
 # CorpusProcessing
-Définissez les besoins de votre projet: Détection des Éléments d’Horreur dans les Films/Livres
+Définissez les besoins de votre projet: Détection des Éléments d’Horreur dans les déscriptions des Films
 
 Dans quel besoin vous inscrivez vous ?
 Développer un modèle NLP capable d’identifier automatiquement les éléments d’horreur dans des textes (scripts de films, résumés, romans).
@@ -14,11 +14,9 @@ Classification de texte : Déterminer si un texte appartient au genre horreur et
 
 Quel type de données allez vous exploiter ?
 Résumés de films d’horreur .
-Livres et nouvelles d’horreur.
 
 Où allez vous récupérer vos données ?
-Project Gutenberg (gutenberg.org), Wikisource : Romans et nouvelles d’horreur du domaine public.
-Films-horreur.com , Wikipedia: résumé de films d'horreur.
+Wikipedia: résumé de films d'horreur.
 
 Sont-elles libres d'accès ?
 Oui
